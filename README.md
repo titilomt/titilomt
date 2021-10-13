@@ -5,7 +5,7 @@
 -->
 Here are some things about me and my beautiful github account:
 
-- 🔭 I’m currently working on RocketSeat Omnistack Weekend
+- 🔭 I’m currently working on Full Cycle Developer at [FullCycle 2.0](https://fullcycle.com.br/tudo-que-voce-precisa-saber-sobre-full-cycle-development/)
 - 🌱 I’m currently learning DataScience (graduate studies from PUC Minas)
 - 👯 I’m looking to collaborate on not so sure yet, maybe some datascience stuff
 - 🤔 I’m looking for help with IA, DataScience, Statistic 
