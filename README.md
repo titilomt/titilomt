@@ -6,9 +6,9 @@
 Here are some things about me and my beautiful github account:
 
 - 🔭 I’m currently working on Full Cycle Developer at [FullCycle 2.0](https://fullcycle.com.br/tudo-que-voce-precisa-saber-sobre-full-cycle-development/)
-- 🌱 I’m currently learning DataScience and Big Data (major graduate studies from PUC Minas)
+- 🌱 I’m currently learning Distributed Software Architecture (major graduate studies from PUC Minas)
 - 👯 I’m looking to collaborate on not so sure yet, maybe some DataScience LifeCycle or something 
-- 🤔 I’m looking for help with IA, DataScience, Statistic, DataOps, MLOps and Cloud Formation environments (Azure, AWS, GCP) 
+- 🤔 I’m looking for help with Architecture skills, Hexagonal structures, SOLID principles, DDD pattern
 - 💬 Ask me about Javascript, I know a thing or two, maybe python but I'm not so sure yet, mongodb working on it and philosophy love this subjects
 - 📫 How to reach me: thp.fonseca@gmail.com
 - 😄 Pronouns: Tihh, Titih, Titilo, Tiaguinho, Titan
