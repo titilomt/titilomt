@@ -22,6 +22,6 @@ Here are some things about me and my beautiful github account:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,node,python,java,php" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,java,php" />
   </a>
 </p>
