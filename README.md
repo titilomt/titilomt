@@ -31,4 +31,5 @@ Here are some things about me and my beautiful github account:
 <div> 
   <a href="https://www.linkedin.com/in/tiago-fonseca-716920142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 ---
