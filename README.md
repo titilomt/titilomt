@@ -13,3 +13,15 @@ Here are some things about me and my beautiful github account:
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/tiago-fonseca-716920142/)
 - 😄 Pronouns: Tihh, Titih, Titilo, Tiaguinho, Titan
 - ⚡ Fun fact: I used to work in PHP backend a lot, some day I changed to Javascript and then I wrote "echo die;" instead of console.log... Just kidding it was my friend or maybe not. 
+
+<div align="center">
+  <a href="https://github.com/rodrigosoadev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=titilomt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titilomt&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,node,python,java,php" />
+  </a>
+</p>
